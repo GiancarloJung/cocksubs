@@ -1,0 +1,138 @@
+/* line 6, ../sass/screen.sass */
+a img {
+  border-width: 0;
+}
+
+/* line 9, ../sass/screen.sass */
+body {
+  margin: 0px;
+  background: url(/assets/background1.png);
+}
+/* line 12, ../sass/screen.sass */
+body a :link, body a:visited {
+  text-decoration: none;
+  color: black;
+}
+/* line 15, ../sass/screen.sass */
+body:active {
+  text-decoration: none;
+  color: black;
+}
+/* line 18, ../sass/screen.sass */
+body:hover {
+  text-decoration: none;
+  color: #9e9481;
+}
+
+/* line 24, ../sass/screen.sass */
+#redes img {
+  width: 60px;
+}
+
+/* line 27, ../sass/screen.sass */
+#curtir {
+  width: 60px;
+}
+
+/* line 30, ../sass/screen.sass */
+h1 {
+  text-decoration: none;
+  color: black;
+  text-shadow: 0 0 0.1em black, 0 0 0.1em black;
+}
+
+/* line 35, ../sass/screen.sass */
+h2 {
+  font-size: 15pt;
+  font-family: "Times";
+  color: #3e4e6e;
+}
+
+/* line 40, ../sass/screen.sass */
+h3 {
+  font-size: 15pt;
+  color: #3e4e6e;
+  font-family: "Times";
+}
+
+/* line 45, ../sass/screen.sass */
+p2 {
+  font-size: 15pt;
+  color: #3e4e6e;
+  font-family: "Times";
+}
+
+/* line 51, ../sass/screen.sass */
+#bottom {
+  margin-top: 40px;
+  border-top: solid 1px #998f7a;
+  background: url(/assets/background2.png);
+}
+
+/* line 58, ../sass/screen.sass */
+#roosters p {
+  font-family: "Times";
+  text-decoration: none;
+  color: black;
+}
+/* line 62, ../sass/screen.sass */
+#roosters p a:link, #roosters p a:visited {
+  text-decoration: none;
+  color: black;
+}
+/* line 65, ../sass/screen.sass */
+#roosters p a:link:active, #roosters p a:visited:active {
+  text-decoration: none;
+  color: black;
+}
+/* line 68, ../sass/screen.sass */
+#roosters p a:link:hover, #roosters p a:visited:hover {
+  text-decoration: none;
+  color: #9e9481;
+}
+
+/* line 73, ../sass/screen.sass */
+#desc p {
+  font-family: "Times";
+  text-decoration: none;
+  color: black;
+}
+/* line 77, ../sass/screen.sass */
+#desc img {
+  width: 300px;
+}
+
+/* line 80, ../sass/screen.sass */
+#anuncio {
+  background: url(/assets/background3.png);
+  border-top: solid 1px #998f7a;
+  border-bottom: solid 1px #6c6b68;
+}
+
+/* line 86, ../sass/screen.sass */
+#paragrafo h3 {
+  color: #3e4e6e;
+  font-size: 20px;
+  font-family: "Times";
+}
+/* line 90, ../sass/screen.sass */
+#paragrafo a:link, #paragrafo a:visited {
+  text-decoration: none;
+  color: black;
+}
+/* line 93, ../sass/screen.sass */
+#paragrafo a:link:active, #paragrafo a:visited:active {
+  text-decoration: none;
+  color: black;
+}
+/* line 96, ../sass/screen.sass */
+#paragrafo a:link:hover, #paragrafo a:visited:hover {
+  text-decoration: none;
+  color: #3e4e6e;
+}
+
+/* line 100, ../sass/screen.sass */
+#footer p {
+  text-decoration: none;
+  color: #9e9481;
+}

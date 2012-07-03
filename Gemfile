@@ -7,6 +7,7 @@ gem 'rails', '3.1.1'
 
 gem 'mysql2'
 
+gem 'pg'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -36,3 +37,6 @@ group :test do
   gem 'turn', :require => false
 end
 
+group :development do
+  gem 'rspec-rails', '2.6.1'
+end
